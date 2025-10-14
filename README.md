@@ -11,17 +11,13 @@ Perfect for college mini-projects or portfolio demonstrations.
 ### 🧾 Inventory Management
 - Add new books with title, author, genre, price, and quantity  
 - Update existing book stock (add or remove quantity)  
-- Remove books permanently from inventory  
-- Auto-detect and alert for *low stock (<20 units)*  
+- Remove books permanently from inventory   
 
 ### 💰 Sales & Revenue Tracking
 - Record sales transactions  
-- Automatically deduct sold books from inventory  
-- Auto-generate total revenue and sales reports  
 
 ### 📊 Data Analytics (Using Pandas & NumPy)
 - Total revenue (NumPy integration)
-- Average book price
 - Top 5 best-selling books
 - Monthly revenue & sales growth rate
 - Revenue distribution by genre
